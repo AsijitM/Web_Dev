@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+html,
+body {
+  background: url(bulb.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.button {
+  padding-right: 10px;
+  padding-top: 0px;
+}
+
+.middle {
+  color: white;
+  font-size: 145px;
+  padding-left: 24%;
+  padding-top: 15%;
+}
+.middle span {
+  color: red;
+}
+.head {
+  letter-spacing: 40px;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  opacity: 40%;
+  font-family: monospace;
+  text-transform: uppercase;
+}
+.list li {
+  color: white;
+  float: right;
+  padding: 10px;
+  margin: 5px;
+  padding-top: 20%;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 2px;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+.foot {
+  color: white;
+  padding-top: 20%;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-left: 10px;
+}
